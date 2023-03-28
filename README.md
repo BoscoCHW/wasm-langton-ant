@@ -7,7 +7,7 @@
 
 </div>
 
-
+![Alt Text](https://raw.githubusercontent.com/BoscoCHW/wasm-langton-ant/main/langton-ant.gif)
 
 ## About
 
